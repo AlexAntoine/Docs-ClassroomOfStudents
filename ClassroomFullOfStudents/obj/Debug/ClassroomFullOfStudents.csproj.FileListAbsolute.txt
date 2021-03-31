@@ -1,0 +1,9 @@
+C:\Users\danto\Documents\Visual Studios Workspace\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.csprojResolveAssemblyReference.cache
+C:\Users\danto\Documents\Visual Studios Workspace\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.csproj.CoreCompileInputs.cache
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.csprojAssemblyReference.cache
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.csproj.CoreCompileInputs.cache
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\bin\Debug\ClassroomFullOfStudents.exe.config
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\bin\Debug\ClassroomFullOfStudents.exe
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\bin\Debug\ClassroomFullOfStudents.pdb
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.exe
+C:\Users\danto\Desktop\ClassroomFullOfStudents\ClassroomFullOfStudents\obj\Debug\ClassroomFullOfStudents.pdb

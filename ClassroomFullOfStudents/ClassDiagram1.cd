@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassroomFullOfStudents.Students">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAEEIAIAAAAAAEAGBAAAAAAgIBABgEAAAAgAAAAIA=</HashCode>
+      <FileName>Students.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.Dates">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAEEQAMCAAAAAAAAAAAAAAQAQAA=</HashCode>
+      <FileName>Dates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.CurryStudents">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAABYACAACAAAAAABAABAEAAAAACAAAAAAACAAAAA=</HashCode>
+      <FileName>CurryStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.NurseyStudents">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAABgAAQAAAAAAAAEAAAABAAAAAAAAkAAAEA=</HashCode>
+      <FileName>NurseyStudents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.MissAnnSchoolOfDance">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAABAAAAIEIAAAAAEAAAAAAAAAAIEAAAAAQA=</HashCode>
+      <FileName>MissAnnSchoolOfDance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.SoccerPlayer">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAADUKAQAAAAEQAAAAAAAEAEAAAAAAAAAAIA=</HashCode>
+      <FileName>SoccerPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassroomFullOfStudents.Address">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgBAAAAAAigAEAABAAACJAAAAAAAAAAAAAgACBCgAw=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
